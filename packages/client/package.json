@@ -1,5 +1,5 @@
 {
-  "name": "@xmpp/client",
+  "name": "@salesframe/xmpp-client",
   "repository": "github:xmppjs/xmpp.js",
   "homepage": "http://github.com/xmppjs/xmpp.js",
   "bugs": "http://github.com/xmppjs/xmpp.js/issues",
